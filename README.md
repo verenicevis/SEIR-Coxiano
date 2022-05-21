@@ -15,5 +15,5 @@ Se agregan tres notebooks:
 
 
 
-
+Referencias Importantes
 *https://cimat.repositorioinstitucional.mx/jspui/bitstream/1008/645/1/I-07-16.pdf
