@@ -9,7 +9,7 @@ Se agregan tres notebooks:
 2.RJMCMC.ipynb
 
 
-3.twalk.ipynb
+3.twalk_seircox.ipynb
 
 
 
